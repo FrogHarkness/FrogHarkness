@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FrogHarkness
-- 👀 I’m interested in Machine learning, Data science
-- 🌱 I’m currently learning Scikit-learn
+- 👋 Hi, I’m @Yichung Shao
+- 👀 I’m interested in Machine learning, Data science, particularly in their applications aimed at enhancing happiness and well-being.
+- 🌱 I’m currently learning Scikit-learn, Scientific computing. 
 - 📫 How to reach me: y3shao@uwaterloo.ca
 
 <!---
